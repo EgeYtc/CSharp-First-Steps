@@ -2,4 +2,5 @@
   <Project Path="01_AsyncPractice/01_AsyncPractice.csproj" />
   <Project Path="02_CombatCalculator/02_CombatCalculator.csproj" />
   <Project Path="03_LootDrop/03_LootDrop.csproj" />
+  <Project Path="04_EnemyWave/04_EnemyWave.csproj" Id="e552f7b0-214f-4427-b509-7de75133d2cc" />
 </Solution>
