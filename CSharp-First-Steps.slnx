@@ -3,4 +3,5 @@
   <Project Path="02_CombatCalculator/02_CombatCalculator.csproj" />
   <Project Path="03_LootDrop/03_LootDrop.csproj" />
   <Project Path="04_EnemyWave/04_EnemyWave.csproj" Id="e552f7b0-214f-4427-b509-7de75133d2cc" />
+  <Project Path="05_EnemyWave_2/05_EnemyWave_2.csproj" Id="1595cd7a-1ddd-46a1-b7cf-d2c50bb9cdf4" />
 </Solution>
