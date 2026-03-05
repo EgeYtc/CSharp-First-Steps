@@ -5,4 +5,5 @@
   <Project Path="04_EnemyWave/04_EnemyWave.csproj" Id="e552f7b0-214f-4427-b509-7de75133d2cc" />
   <Project Path="05_EnemyWave_2/05_EnemyWave_2.csproj" Id="1595cd7a-1ddd-46a1-b7cf-d2c50bb9cdf4" />
   <Project Path="06_WaveCombined/06_WaveCombined.csproj" Id="bc856768-fa3b-485f-9fb5-b2a5c7c7d8bc" />
+  <Project Path="07_IfLogicAddedWave/07_IfLogicAddedWave.csproj" Id="de86eda8-ecc9-4bf2-94e8-a4029440182f" />
 </Solution>
