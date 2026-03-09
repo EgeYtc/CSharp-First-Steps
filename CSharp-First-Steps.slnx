@@ -13,4 +13,5 @@
   <Project Path="12_Constructors/12_Constructors.csproj" Id="78cb9769-8ef1-48ab-ad55-8118d75bd479" />
   <Project Path="13_Inheritance/13_Inheritance.csproj" Id="7846109a-307d-48fa-bfa3-e6eb2939529e" />
   <Project Path="14_Polymorphism/14_Polymorphism.csproj" Id="4d91262e-7cdd-4733-bb7f-fb5edc24fd7f" />
+  <Project Path="15_Abstraction/15_Abstraction.csproj" Id="13968ba8-540d-4fe7-988f-9a5c52e5a25d" />
 </Solution>
