@@ -8,4 +8,5 @@
   <Project Path="07_IfLogicAddedWave/07_IfLogicAddedWave.csproj" Id="de86eda8-ecc9-4bf2-94e8-a4029440182f" />
   <Project Path="08_Methods/08_Methods.csproj" Id="c045bf20-a52f-469d-80a3-4930f68dc6d4" />
   <Project Path="09_Array&amp;Lists/09_Array&amp;Lists.csproj" Id="20449ae0-749d-41c3-8e19-ea06709117bc" />
+  <Project Path="10_InventorySystem/10_InventorySystem.csproj" Id="42b8d6bc-18f0-41ca-9760-bf9101161984" />
 </Solution>
