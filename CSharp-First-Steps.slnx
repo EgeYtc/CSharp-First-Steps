@@ -10,4 +10,5 @@
   <Project Path="09_Array&amp;Lists/09_Array&amp;Lists.csproj" Id="20449ae0-749d-41c3-8e19-ea06709117bc" />
   <Project Path="10_InventorySystem/10_InventorySystem.csproj" Id="42b8d6bc-18f0-41ca-9760-bf9101161984" />
   <Project Path="11_ClassesAndObjects/11_ClassesAndObjects.csproj" Id="f6b6b939-5001-4fb5-beb2-db0320a00c84" />
+  <Project Path="12_Constructors/12_Constructors.csproj" Id="78cb9769-8ef1-48ab-ad55-8118d75bd479" />
 </Solution>
