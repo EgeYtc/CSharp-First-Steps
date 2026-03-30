@@ -16,4 +16,5 @@
   <Project Path="15_Abstraction/15_Abstraction.csproj" Id="13968ba8-540d-4fe7-988f-9a5c52e5a25d" />
   <Project Path="16_OOP/16_OOP.csproj" Id="a8f7f196-af01-4738-bfc4-0d1ace7eebb5" />
   <Project Path="17_OperatorOverloading/17_OperatorOverloading.csproj" Id="52563ced-ee7c-4f2a-b277-881b55b61d1a" />
+  <Project Path="18_Switch/18_Switch.csproj" Id="8d87f125-b5b2-48a6-a7ba-d412e5fb5a56" />
 </Solution>
