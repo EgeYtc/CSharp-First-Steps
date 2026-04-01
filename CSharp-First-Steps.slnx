@@ -18,4 +18,5 @@
   <Project Path="17_OperatorOverloading/17_OperatorOverloading.csproj" Id="52563ced-ee7c-4f2a-b277-881b55b61d1a" />
   <Project Path="18_Switch/18_Switch.csproj" Id="8d87f125-b5b2-48a6-a7ba-d412e5fb5a56" />
   <Project Path="19_ReadKey/19_ReadKey.csproj" Id="69bc4785-747a-43aa-b825-a2f3f82bae30" />
+  <Project Path="20_Tic-Tac-Toe/20_Tic-Tac-Toe.csproj" Id="cd274efe-cb1b-4dfe-b7b6-6615c45ca87b" />
 </Solution>
