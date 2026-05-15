@@ -19,4 +19,5 @@
   <Project Path="18_Switch/18_Switch.csproj" Id="8d87f125-b5b2-48a6-a7ba-d412e5fb5a56" />
   <Project Path="19_ReadKey/19_ReadKey.csproj" Id="69bc4785-747a-43aa-b825-a2f3f82bae30" />
   <Project Path="20_Tic-Tac-Toe/20_Tic-Tac-Toe.csproj" Id="cd274efe-cb1b-4dfe-b7b6-6615c45ca87b" />
+  <Project Path="21_DataStructures_Dungeon/21_DataStructures_Dungeon.csproj" Id="9a00d5c4-5571-462b-b7e4-26b2c1b684e2" />
 </Solution>

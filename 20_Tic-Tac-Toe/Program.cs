@@ -108,7 +108,8 @@ namespace _20_Tic_Tac_Toe
 
                 Console.WriteLine("\n");
                 DrawBoard();
-                choice = int.Parse(Console.ReadLine()) - 1;
+                string? input = Console.ReadLine();
+                choice = int.Parse(input ?? "0") - 1;
 
                 if (spaces[choice] != 'X' &&
                     spaces[choice] != 'O')
