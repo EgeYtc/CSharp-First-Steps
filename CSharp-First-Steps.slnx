@@ -20,4 +20,5 @@
   <Project Path="19_ReadKey/19_ReadKey.csproj" Id="69bc4785-747a-43aa-b825-a2f3f82bae30" />
   <Project Path="20_Tic-Tac-Toe/20_Tic-Tac-Toe.csproj" Id="cd274efe-cb1b-4dfe-b7b6-6615c45ca87b" />
   <Project Path="21_DataStructures_Dungeon/21_DataStructures_Dungeon.csproj" Id="9a00d5c4-5571-462b-b7e4-26b2c1b684e2" />
+  <Project Path="22_List_SpellBook/22_List_SpellBook.csproj" Id="727e3465-e7d2-42cc-8188-b3adb6aedfe2" />
 </Solution>
