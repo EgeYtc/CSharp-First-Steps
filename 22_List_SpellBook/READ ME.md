@@ -10,6 +10,3 @@ A wizard spellbook manager built to practice C# List operations.
 - .Contains() — checking for a specific spell
 - Array.Exists() combined with List
 - OrdinalIgnoreCase for case-insensitive input
-
-## How to Run
-Open in Visual Studio, set as startup project, run with F5.
