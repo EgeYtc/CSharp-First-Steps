@@ -13,8 +13,3 @@ Each folder is a hands-on practice exercise focused on a specific concept.
 
 ## Goal
 Become a game developer. Currently building C# fundamentals before moving into Unity.
-
-## Tools
-- Language: C#
-- IDE: Visual Studio
-- Course: Complete C# Programming Course (Udemy)
