@@ -23,4 +23,5 @@
   <Project Path="22_List_SpellBook/22_List_SpellBook.csproj" Id="727e3465-e7d2-42cc-8188-b3adb6aedfe2" />
   <Project Path="23_Balanced_Braces_Problem/23_Balanced_Braces_Problem.csproj" Id="90b476de-df85-4f88-836b-37fdc813699d" />
   <Project Path="24_Hospital_Queue_System/24_Hospital_Queue_System.csproj" Id="85523351-174d-4a09-9161-1c89d2f0e92b" />
+  <Project Path="25_Seasons_Enums/25_Seasons_Enums.csproj" Id="e63446ad-15a7-49b0-b52d-417d05f68096" />
 </Solution>
