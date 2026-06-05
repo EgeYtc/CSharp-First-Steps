@@ -1,7 +1,6 @@
-# C# First Steps 🎮
+# C# First Steps
 
-This repo tracks my C# learning journey toward becoming a game developer.
-Each folder is a hands-on practice exercise focused on a specific concept.
+This repo tracks my C# learning journey. Concept of practices are mostly related with game development.
 
 ## What I'm Learning
 - C# fundamentals (variables, loops, conditionals)
@@ -11,5 +10,3 @@ Each folder is a hands-on practice exercise focused on a specific concept.
 - Async programming
 - Mini-projects (Inventory System, Enemy Wave System, Tic-Tac-Toe)
 
-## Goal
-Become a game developer. Currently building C# fundamentals before moving into Unity.
